@@ -25,21 +25,22 @@ MERN Stack Web Developer
 ### Databases
 MySQL, Firebase, MongoDB
 <hr>
+
 ### Web Development Technologies 
 
 - Comfortable:
- - HTML5	
- - JavaScript	
- - REST APIs
- - CSS3
- - ES6	
- - MongoDB
- - Bootstrap5.
- - React.js
- - CSS Media Query
- - Express.js	
- - DaisyUi		
- - Material 	
+ -- HTML5	
+ -- JavaScript	
+ -- REST APIs
+ -- CSS3
+ -- ES6	
+ -- MongoDB
+ -- Bootstrap5.
+ -- React.js
+ -- CSS Media Query
+ -- Express.js	
+ -- DaisyUi		
+ -- Material 	
 
 `Familiar:` 
                 Redux, Node.js, PostgreSQL, React Native
