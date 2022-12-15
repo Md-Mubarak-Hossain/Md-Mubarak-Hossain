@@ -79,7 +79,12 @@ MySQL, Firebase, MongoDB
 
 
 ### 🔥 My-Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Mubarak-Hossain&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
+<div style='width:100%'>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Mubarak-Hossain&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats) 
+
+</div>
+<br> <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Md-Mubarak-Hossain&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <hr>
 
