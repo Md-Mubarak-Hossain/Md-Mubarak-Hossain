@@ -23,7 +23,7 @@ Programming Languages
 ### Databases
 MySQL, Firebase, MongoDB
 
-Web Development Technologies
+### Web Development Technologies
         Comfortable: 
 	HTML5		JavaScript		REST APIs
 	CSS3		ES6		MongoDB
@@ -33,16 +33,6 @@ Web Development Technologies
 
 `Familiar:` 
                 Redux, Node.js, PostgreSQL, React Native
-<hr>
-
-### Tools
-
-	VS Code, 		Apache Tomcat	        	Git  	    	CLI
-	Netbeans		EmailJS	                	Firebase		Google API
-	Eclipse	    	Nodemailer, 	        	Vercel	    	Express Generator
-	Xame	    	Chrome Developers tool		Netlify	
-
-<hr>
 
 
 
@@ -67,7 +57,9 @@ Web Development Technologies
  <img src="https://i.ibb.co/qyPFTYy/dnld.png" style="display:block;margin-top:20px;width:200px;height:auto;" alt="dnld" border="0">
   </a>
 <a href="https://drive.google.com/file/d/1HWiUoJXFvkxnT6kiVffgx09P7qJNUgWO/view?usp=share_link" style="text-decoration: none"  target="_blank">
- <img src="/assets/cv.png"  style="display:block;margin-top:20px;width:100px;height:80px;" alt="dnld" border="0">Download my cv
+ <p style='display:flex; background:gray;'>
+ <img src="/assets/cv.png"  style="display:block;margin-top:20px;width:100px;height:80px;display:block" alt="dnld" border="0">Download my cv
+ </p>
   </a>
 
 <hr> 
