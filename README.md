@@ -20,7 +20,7 @@ Programming Languages
 `Comfortable:` C, C++, Python, JavaScript, HTML5, CSS3
 `Familiar:` Java, Ruby On Rail
 
-### Databases
+### <img src='/assets/database.jpg' alt='database'style='width:30px;height:30px'/> Databases
 MySQL, Firebase, MongoDB
 
 ### Web Development Technologies
