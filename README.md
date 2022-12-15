@@ -63,8 +63,11 @@ Web Development Technologies
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 <hr>
-<a href="https://drive.google.com/file/d/1i-h1LbFfnMgMk3GhFGzP2ipwkGU4JnxL/view?usp=share_link" style="text-decoration: none"  target="_blank">
+<a href="https://drive.google.com/file/d/1l5KtH3PlLta251X3SVlnafU_J_lnsRsb/view?usp=share_link" style="text-decoration: none"  target="_blank">
  <img src="https://i.ibb.co/qyPFTYy/dnld.png" style="display:block;margin-top:20px;width:200px;height:auto;" alt="dnld" border="0">
+  </a>
+<a href="https://drive.google.com/file/d/1HWiUoJXFvkxnT6kiVffgx09P7qJNUgWO/view?usp=share_link" style="text-decoration: none"  target="_blank">
+ <img src="/assets/cv.png"  style="display:block;margin-top:20px;width:100px;height:auto;" alt="dnld" border="0">
   </a>
 
 <hr> 
