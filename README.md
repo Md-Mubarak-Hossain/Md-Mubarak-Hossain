@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img style="width: 100%; height: auto;" src="/assets/banner.jpg"/>
+  <img style="width: 100%; height: auto;" src="/assets/banner.png"/>
 </div>
 
 <hr>
@@ -79,23 +79,20 @@ MySQL, Firebase, MongoDB
 
 
 ### 🔥 My-Stats :
-<div style='width:100%'>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Mubarak-Hossain&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats) 
 
-</div>
 <br> <br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Md-Mubarak-Hossain&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <hr>
 
 ### 🥇 Top Languages :
 
-<div style='width:100%'>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mubarak-Hossain&layout=compact&theme=cobalt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 
 <hr>
 <br>
