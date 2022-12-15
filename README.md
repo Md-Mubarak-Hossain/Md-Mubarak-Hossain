@@ -67,7 +67,7 @@ Web Development Technologies
  <img src="https://i.ibb.co/qyPFTYy/dnld.png" style="display:block;margin-top:20px;width:200px;height:auto;" alt="dnld" border="0">
   </a>
 <a href="https://drive.google.com/file/d/1HWiUoJXFvkxnT6kiVffgx09P7qJNUgWO/view?usp=share_link" style="text-decoration: none"  target="_blank">
- <img src="/assets/cv.png"  style="display:block;margin-top:20px;width:100px;height:auto;" alt="dnld" border="0">
+ <img src="/assets/cv.png"  style="display:block;margin-top:20px;width:100px;height:80px;" alt="dnld" border="0">Download my cv
   </a>
 
 <hr> 
