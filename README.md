@@ -11,25 +11,35 @@ leadership abilities to meet client needs exceed their expectations.
 
 ### 😎 Skillset :
 
-Domain Expertise
+## Domain Expertise
 
 MERN Stack Web Developer
 
-Programming Languages
+## Programming Languages
 
 `Comfortable:` C, C++, Python, JavaScript, HTML5, CSS3
 `Familiar:` Java, Ruby On Rail
+<hr>
+<img src='/assets/database.jpg' alt='database'style='width:30px;height:30px'/> 
 
-### <img src='/assets/database.jpg' alt='database'style='width:30px;height:30px'/> Databases
+### Databases
 MySQL, Firebase, MongoDB
+<hr>
+### Web Development Technologies 
 
-### Web Development Technologies
-        Comfortable: 
-	HTML5		JavaScript		REST APIs
-	CSS3		ES6		MongoDB
-	Bootstrap5.2		React.js		CSS Media Query
-	TailwindCSS3		Express.js	
-	DaisyUi		Material 	
+- Comfortable:
+ - HTML5	
+ - JavaScript	
+ - REST APIs
+ - CSS3
+ - ES6	
+ - MongoDB
+ - Bootstrap5.
+ - React.js
+ - CSS Media Query
+ - Express.js	
+ - DaisyUi		
+ - Material 	
 
 `Familiar:` 
                 Redux, Node.js, PostgreSQL, React Native
