@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img style="width: 100%; height: auto;" src="/assets/banner.png"/>
+  <img style="width: 100%; height: auto;" src="https://www.canva.com/design/DAFXMRZQPK4/-nyIUrFZ8ANaj-llgqEIcQ/edit?utm_content=DAFXMRZQPK4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
 </div>
 
 <hr>
