@@ -27,13 +27,13 @@
 
 # Desired Skills
 <hr/>
-### Expertise:
+ <h2>Expertise:</h2>
 ReactJS, Next.JS, NodeJS, Express.JS, ES6, ES7, JavaScript, TypeScript, MongoDB, HTML5, CSS3, Tailwind, Daisy UI, Material UI, Bootstrap5.2, React-Bootstrap, 
-### Comfortable: 
+<h2>Comfortable: </h2>
 AngularJS, REST APIs, MySQL, Python, Java, XML, JSP, Scripting, Responsive web, JSON
-### Familiar:  
+<h2>Familiar:</h2>  
 Redux, Vue.JS, WordPress
-### Technical Skill: 
+<h2>Technical Skill: </h2>
 Git, GitHub, Docker, Vercel, Netlify, Firebase, VS Code, Net beans, Eclipse, Node mailer, Email.JS.
 
 
