@@ -6,44 +6,128 @@
 
 ### 🐼 About Me :
 
-Self motivated team player with four years of experience seeking a position as a web developer with Next generation Web Development Technologies, where I can apply my knowledge of web development with my
-leadership abilities to meet client needs exceed their expectations.
+Career Objective
+I am a Full Stack Developer who is passionate, innovative and motivated to make a difference. The years of experience seeking a position as a Full Stack Developer with next generation Development Technologies, where I can apply my knowledge of Full Stack Development with leadership abilities to meet client needs exceed their expectations.
 
-### 😎 Skillset :
+Experience
+Full Stack Developer                                                                                                          January-2023 -Present
+AAK TELE SCIENCE Inc, Full Time 
+Davis, California, United States · Remote
+AAK introduces a revolutionary global collaborative environment dedicated to the scientific research community. Our cloud-based, interactive platform connects scientists with their peers worldwide, providing a smart and user-friendly adaptive experience enhanced by machine learning. Our platform encourages research collaboration while maintaining secure control over data for its us 
 
-## Domain Expertise
+Skills: React JS, Bootstrap, Node JS, Express JS , MongoDB, GitHub , Atoms, Project manage, Software development
 
-MERN Stack Web Developer
+Software Developer                                                                                                      November-2022 -January-2023
+GAO Tek Inc, Full Time , US  (Remote)
+I am a motivated full stack developer team member at GAO TEK Inc. This company stands me in a leadership position with excellent collaboration. I also learn how to manage team members and work together with them.
 
-## Programming Languages
+Skills: React JS, Node JS, HTML5, CSS3, Team lead,  Project management,  Software development,  Project management methodology
 
-`Comfortable:` C, C++, Python, JavaScript, HTML5, CSS3
-`Familiar:` Java, Ruby On Rail
-<hr>
-<img src='/assets/database.jpg' alt='database'style='width:30px;height:30px'/> 
+Desired Skills
+Expertise: ReactJS, Next.JS, NodeJS, Express.JS, ES6, ES7, JavaScript, TypeScript, MongoDB, HTML5, CSS3, Tailwind, Daisy UI, Material UI, Bootstrap5.2, React-Bootstrap, 
+Comfortable: AngularJS, REST APIs, MySQL, Python, Java, XML, JSP, Scripting, Responsive web, JSON
+Familiar:  Redux, Vue.JS, WordPress
+Technical Skill: Git, GitHub, Docker, Vercel, Netlify, Firebase, VS Code, Net beans, Eclipse, Node mailer, Email.JS.
 
-### Databases
-MySQL, Firebase, MongoDB
-<hr>
 
-### Web Development Technologies 
+Projects
 
-- Comfortable:
- -- HTML5	
- -- JavaScript	
- -- REST APIs
- -- CSS3
- -- ES6	
- -- MongoDB
- -- Bootstrap5.
- -- React.js
- -- CSS Media Query
- -- Express.js	
- -- DaisyUi		
- -- Material 	
+GOOGLE SPACE|| React-TypeScript Firebase Authentication google drive-based Website
+•	React TypeScript App with Firebase Authentication (email-password, GitHub, google)
+•	Google drive-based website where can upload any project with live site and GitHub
+•	Sign in and sign up and Private (Protect) Router used. 
+•	Before add projects, must be sign in / sign up (account create) first.
+•	Technologies: 
+#React.js, #Node JS, #Express JS, #TypeScript, #Private Route, #GitHub, #MongoDB, #Firebase, , #Middlewares, #TailwindCSS, #DaisyUI, #GitHub,#Vercel,
+ 	Live Preview
+ 	Client Repository
+ 	Server Repository
 
-`Familiar:` 
-                Redux, Node.js, PostgreSQL, React Native
+
+FOOD RECIPES || Full Stack food Service Website
+•	Full Stack project food recipes-based web site where people can see favorite food and technology.
+•	Firebase Authentication (email-password, GitHub, google) Sign in, sign up system available 
+•	JWT Authorization, order any recipes, must be sign in /sign up (account create) first.
+•	Sign in and sign up and Private (Protect) Router used. 
+•	Technologies: 
+#React.js, #Node JS, #Express JS, #Private Route, #GitHub, #MongoDB, #Firebase, #Middlewares, #TailwindCSS, #DaisyUI, #GitHub, #Vercel, #Stripe Payment 
+ 	Live Preview
+ 	Client Repository
+ 	Server Repository
+
+
+LAWYER GHHOR || MERN Stack Service Review Based Website
+•	MERN Stack project Service based web site where people can see lawyer Service.
+•	Firebase Authentication (email-password, GitHub, google) Sign in, sign up system available 
+•	JWT Authorization, add any services, must be sign in /sign up (account create) first.
+•	Sign in and sign up and Private (Protect) Router used. 
+•	Technologies: 
+#React.js, #Node JS, #Express JS, #Private Route, #GitHub, #MongoDB, #Firebase, #Middlewares, #TailwindCSS, #DaisyUI, #GitHub, #Vercel, #Stripe Payment 
+ 	Live Preview
+ 	Client Repository
+ 	Server Repository
+
+
+Education
+B.Sc. in Computer Science and Engineering                                          2019– 2022 | Uttara, Dhaka, Bangladesh
+Shanto Mariam University Of Creative Technology
+Dhaka, Bangladesh.
+Higher Secondary School Certificate– Science                                        2011– 2013 | West-Brahmondhi
+GPA-5.00 (In scale of 5.00)
+NARSINGDI MODEL COLLEGE
+Narsingdi, Dhaka, Bangladesh
+Secondary School Certificate– Science                                              2006– 2011 | Raipura,Narsingdi
+GPA-5.00 (In scale of 5.00)
+SERAJ NAGAR M.A PILOT HIGH SCHOOL
+Raipura, Narsingdi, Dhaka, Bangladesh
+
+Language
+English (Communication)
+•	Fluent listening, #Reading, #Writing and #Speaking
+Bengali
+•	Excellent listening, reading, writing and speaking
+
+Area Of Interest
+ 
+•	Full Stack Web Development
+•	MERN Stack Web Development
+•	Front End Development
+•	Backend Development
+•	React JS Development
+•	JavaScript Development
+ 
+
+Certification
+•	Programming Hero ,Dhaka,Bangladesh
+•	Microverse , California, USA
+
+Biography
+Name 	:	MD MUBARAK HOSSAIN
+Nickname 	:	MUBARAK
+Name of Father 	:	MD MUSLEH UDDIN
+Name of Mother 	:	MST. HALIMA KHANAM
+Date of Birth 	:	16 June 1995
+Present 
+Address 	:	Raipura-1630, Narsingdi, Dhaka, Bangladesh
+Permanent Address 	:	Raipura-1630, Narsingdi, Dhaka, Bangladesh
+Marital Status 	:	Married
+Gender 	:	Male
+Religion 	:	Islam
+Nationality 	:	Bangladeshi (By Born)
+National ID No 	:	7806955592
+Contact No 	:	+8801302265408
+Blood Group 	:	B(+ve)
+Height 	:	5.6 ft
+Weight 	:	68 kg
+
+Reference
+Md. Zahid Hasan
+Assistant Professor, Department of CSE, SMUCT
+Zahid.hasan@smuct.ac.bd
+ +8801741-414162
+
+Declaration
+I hereby consciously ascertain that, all the particulars mentioned above are true. I myself will be liable of any misinformation mentioned herewith.
 
 
 
