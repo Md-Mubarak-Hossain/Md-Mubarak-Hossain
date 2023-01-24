@@ -35,19 +35,18 @@
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" style="display:block;margin:20px;width:80px;height:80px"/>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" style="display:block;margin-top:20px;width:100px;height:30px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" style="display:block;margin:20px;width:80px;height:80px"/>
   </div>
   <div style="display:flex">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS"style="display:block;margin:20px;width:80px;height:80px"/>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap"style="display:block;margin:20px;width:80px;height:80px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" style="display:block;margin:20px;width:80px;height:80px"/>
   
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwind" alt="Tailwind CSS"style="display:block;margin:20px;width:80px;height:80px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwind" alt="Tailwind CSS"  style="display:block;margin:20px;width:80px;height:80px"/>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" style="display:block;margin:20px;width:80px;height:80px"/>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI"style="display:block;margin:20px;width:80px;height:80px"/>
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" style="display:block;margin:20px;width:80px;height:80px"/>  
 </div>
 <hr/>
 
