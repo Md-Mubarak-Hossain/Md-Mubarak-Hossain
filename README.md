@@ -13,14 +13,14 @@
 # Experience
 <hr/>
 <h1>Full Stack Developer </h1>                                                                                                        
-<p> AAK TELE SCIENCE Inc, Full Time  # January-2023 -Present</p>
+<h5> AAK TELE SCIENCE Inc, Full Time  # January-2023 -Present</h5>
 <h5>Davis, California, United States · Remote</h5>
 <p> AAK introduces a revolutionary global collaborative environment dedicated to the scientific research community. Our cloud-based, interactive platform connects scientists with their peers worldwide, providing a smart and user-friendly adaptive experience enhanced by machine learning. Our platform encourages research collaboration while maintaining secure control over data for its us </p>
 
 <h4> Skills: React JS, Bootstrap, Node JS, Express JS , MongoDB, GitHub , Atoms, Project manage, Software development</h4>
 <hr/>
-### Software Developer                                                                                                      
-### GAO Tek Inc, Full Time , US-  November-2022 -January-2023(Remote)
+<h1> Software Developer  </h1>                                                                                                    
+<h5> GAO Tek Inc, Full Time , US-  November-2022 -January-2023(Remote)</h5>
 <p>I am a motivated full stack developer team member at GAO TEK Inc. This company stands me in a leadership position with excellent collaboration. I also learn how to manage team members and work together with them.</p>
 
 <h4> Skills: React JS, Node JS, HTML5, CSS3, Team lead,  Project management,  Software development,  Project management methodology</h4>
@@ -59,74 +59,73 @@ Git, GitHub, Docker, Vercel, Netlify, Firebase, VS Code, Net beans, Eclipse, Nod
 <hr/>
 
 <h5> LAWYER GHHOR || MERN Stack Service Review Based Website</h5>
-•	MERN Stack project Service based web site where people can see lawyer Service.
-•	Firebase Authentication (email-password, GitHub, google) Sign in, sign up system available 
-•	JWT Authorization, add any services, must be sign in /sign up (account create) first.
-•	Sign in and sign up and Private (Protect) Router used. 
-•	Technologies: 
+<li>MERN Stack project Service based web site where people can see lawyer Service.</li>
+<li>Firebase Authentication (email-password, GitHub, google) Sign in, sign up system available </li>
+<li>JWT Authorization, add any services, must be sign in /sign up (account create) first.</li>
+<li>Sign in and sign up and Private (Protect) Router used. </li>
+<li>Technologies: </li>
 #React.js, #Node JS, #Express JS, #Private Route, #GitHub, #MongoDB, #Firebase, #Middlewares, #TailwindCSS, #DaisyUI, #GitHub, #Vercel, #Stripe Payment 
 
 
 
 # Education
 <hr/>
-B.Sc. in Computer Science and Engineering                                          2019– 2022 | Uttara, Dhaka, Bangladesh
-Shanto Mariam University Of Creative Technology
+<h5>B.Sc. in Computer Science and Engineering     </h5>                                    
+ <p>2019– 2022 | Uttara, Dhaka, Bangladesh</p>
+<h4>Shanto Mariam University Of Creative Technology</h4>
 Dhaka, Bangladesh.
-Higher Secondary School Certificate– Science                                        2011– 2013 | West-Brahmondhi
+<h5>Higher Secondary School Certificate– Science </h5>                                       
+ <p>2011– 2013 | West-Brahmondhi</p>
 GPA-5.00 (In scale of 5.00)
-NARSINGDI MODEL COLLEGE
+<h4>NARSINGDI MODEL COLLEGE</h4>
 Narsingdi, Dhaka, Bangladesh
-Secondary School Certificate– Science                                              2006– 2011 | Raipura,Narsingdi
-GPA-5.00 (In scale of 5.00)
-SERAJ NAGAR M.A PILOT HIGH SCHOOL
-Raipura, Narsingdi, Dhaka, Bangladesh
 
 # Language
 <hr/>
-English (Communication)
+### English (Communication)
 •	Fluent listening, #Reading, #Writing and #Speaking
-Bengali
+### Bengali
 •	Excellent listening, reading, writing and speaking
 
 # Area Of Interest
  <hr/>
-•	Full Stack Web Development
-•	MERN Stack Web Development
-•	Front End Development
-•	Backend Development
-•	React JS Development
-•	JavaScript Development 
+ <table>
+  <tbody>
+    <tr><td><li>Full Stack Web Development</li></td><td><li>MERN Stack Web Development </li></td></tr>
+   <tr><td><li>React JS Development</li></td><td><li>JavaScript Development</li></td></tr>
+    <tr><td><li>Front End Development</li></td><td><li>Backend Development</li></td></tr>
+  </tbody>
+  </table>
 
 # Certification
 <hr/>
-•	Programming Hero ,Dhaka,Bangladesh
-•	Microverse , California, USA
+<li>Programming Hero ,Dhaka,Bangladesh</li>
+<li>Microverse , California, USA</li>
 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwind" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwind" alt="Tailwind CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
 </div>
 <hr>
 <img src="/assets/down.jpg" style="display:block;margin-top:20px;width:100px;height:30px" alt="dnld" border="0">
 <p style='display:flex; background:gray;'>
-<a href="https://drive.google.com/file/d/1l5KtH3PlLta251X3SVlnafU_J_lnsRsb/view?usp=share_link" style="text-decoration: none"  target="_blank">
+<a href="https://drive.google.com/file/d/1AK8gwBK2FlwqtSXYiWec0_1TzwnEHKRO/view?usp=sharing" style="text-decoration: none"  target="_blank">
  <img src="/assets/resume.jpg" style="display:block;margin-top:20px;width:90px;height:auto;" alt="dnld" border="0">
   </a>
-<a href="https://drive.google.com/file/d/1HWiUoJXFvkxnT6kiVffgx09P7qJNUgWO/view?usp=share_link" style="text-decoration: none"  target="_blank">
+<a href="https://drive.google.com/file/d/1omM2haYq5NcwLAHz5nvIUh-RWggnR-B2/view?usp=sharing" style="text-decoration: none"  target="_blank">
  
  <img src="/assets/cv.jpg"  style="display:block;margin-top:20px;width:90px;height:auto;display:block" alt="dnld" border="0">
  </p>
