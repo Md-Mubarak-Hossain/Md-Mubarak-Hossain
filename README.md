@@ -36,8 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" style="display:block;margin:20px;width:80px;height:80px"/>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" style="display:block;margin:20px;width:80px;height:80px"/>
-  </div>
-  <div style="display:flex">
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS"style="display:block;margin:20px;width:80px;height:80px"/>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" style="display:block;margin:20px;width:80px;height:80px"/>
