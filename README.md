@@ -32,7 +32,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" style="display:block;margin-top:20px;width:100px;height:30px"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" style="display:block;margin-top:20px;width:100px;height:30px"/>
  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" style="display:block;margin-top:20px;width:100px;height:30px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" style="display:block;margin:20px;width:100px;height:100px"/>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" style="display:block;margin-top:20px;width:100px;height:30px"/>
   </div>
