@@ -25,16 +25,42 @@
 
 <h4> Skills: React JS, Node JS, HTML5, CSS3, Team lead,  Project management,  Software development,  Project management methodology</h4>
 
-### Desired Skills
+### :hammer_and_wrench: Desired Skills
+ <h4>Expertise:</h4>
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  
+ <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+ 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwind" alt="Tailwind CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  
+  
+
+</div>
 <hr/>
- <h6>Expertise:</h6>
-ReactJS, Next.JS, NodeJS, Express.JS, ES6, ES7, JavaScript, TypeScript, MongoDB, HTML5, CSS3, Tailwind, Daisy UI, Material UI, Bootstrap5.2, React-Bootstrap, 
-<h6>Comfortable: </h6>
+
+<h4>Comfortable: </h4>
 AngularJS, REST APIs, MySQL, Python, Java, XML, JSP, Scripting, Responsive web, JSON
-<h6>Familiar:</h6>  
+<h4>Familiar:</h4>  
 Redux, Vue.JS, WordPress
-<h6>Technical Skill: </h6>
-Git, GitHub, Docker, Vercel, Netlify, Firebase, VS Code, Net beans, Eclipse, Node mailer, Email.JS.
+<h4>Technical Skill: </h4>
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+ Docker, Vercel, Netlify,VS Code, Net beans, Eclipse, Node mailer, Email.JS.
 
 
 ### Projects
@@ -53,7 +79,7 @@ Git, GitHub, Docker, Vercel, Netlify, Firebase, VS Code, Net beans, Eclipse, Nod
 <li>Full Stack project food recipes-based web site where people can see favorite food and technology.</li>
 <li>Firebase Authentication (email-password, GitHub, google) Sign in, sign up system available </li>
 <li>JWT Authorization, order any recipes, must be sign in /sign up (account create) first.</li>
-<li>Sign in and sign up and Private (Protect) Router used. <li>
+<li>Sign in and sign up and Private (Protect) Router used. </li>
 <li>Technologies: </li>
 #React.js, #Node JS, #Express JS, #Private Route, #GitHub, #MongoDB, #Firebase, #Middlewares, #TailwindCSS, #DaisyUI, #GitHub, #Vercel, #Stripe Payment 
 <hr/>
@@ -82,9 +108,9 @@ Narsingdi, Dhaka, Bangladesh
 
 # Language
 <hr/>
-### English (Communication)
+<h4> English (Communication)</h4>
 •	Fluent listening, #Reading, #Writing and #Speaking
-### Bengali
+<h4> Bengali</h4>
 •	Excellent listening, reading, writing and speaking
 
 # Area Of Interest
@@ -103,22 +129,7 @@ Narsingdi, Dhaka, Bangladesh
 <li>Microverse , California, USA</li>
 
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwind" alt="Tailwind CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-</div>
+
 <hr>
 <img src="/assets/down.jpg" style="display:block;margin-top:20px;width:100px;height:30px" alt="dnld" border="0">
 <p style='display:flex; background:gray;'>
