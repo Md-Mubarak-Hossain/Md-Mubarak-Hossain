@@ -27,7 +27,7 @@
 
 ### :hammer_and_wrench: Desired Skills
  <h4>Expertise:</h4>
-<div>
+<div style="display:flex">
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   
  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
@@ -48,8 +48,6 @@
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   
-  
-
 </div>
 <hr/>
 
@@ -58,9 +56,11 @@ AngularJS, REST APIs, MySQL, Python, Java, XML, JSP, Scripting, Responsive web, 
 <h4>Familiar:</h4>  
 Redux, Vue.JS, WordPress
 <h4>Technical Skill: </h4>
+<div style="display:flex">
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
  Docker, Vercel, Netlify,VS Code, Net beans, Eclipse, Node mailer, Email.JS.
+</div>
 
 
 ### Projects
