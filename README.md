@@ -19,47 +19,46 @@
 
 <h4> Skills: React JS, Bootstrap, Node JS, Express JS , MongoDB, GitHub , Atoms, Project manage, Software development</h4>
 <hr/>
-### Software Developer                                                                                                      # November-2022 -January-2023
-### GAO Tek Inc, Full Time , US  (Remote)
+### Software Developer                                                                                                      
+### GAO Tek Inc, Full Time , US-  November-2022 -January-2023(Remote)
 <p>I am a motivated full stack developer team member at GAO TEK Inc. This company stands me in a leadership position with excellent collaboration. I also learn how to manage team members and work together with them.</p>
 
-### Skills: React JS, Node JS, HTML5, CSS3, Team lead,  Project management,  Software development,  Project management methodology
+<h4> Skills: React JS, Node JS, HTML5, CSS3, Team lead,  Project management,  Software development,  Project management methodology</h4>
 
-# Desired Skills
+### Desired Skills
 <hr/>
- <h2>Expertise:</h2>
+ <h6>Expertise:</h6>
 ReactJS, Next.JS, NodeJS, Express.JS, ES6, ES7, JavaScript, TypeScript, MongoDB, HTML5, CSS3, Tailwind, Daisy UI, Material UI, Bootstrap5.2, React-Bootstrap, 
-<h2>Comfortable: </h2>
+<h6>Comfortable: </h6>
 AngularJS, REST APIs, MySQL, Python, Java, XML, JSP, Scripting, Responsive web, JSON
-<h2>Familiar:</h2>  
+<h6>Familiar:</h6>  
 Redux, Vue.JS, WordPress
-<h2>Technical Skill: </h2>
+<h6>Technical Skill: </h6>
 Git, GitHub, Docker, Vercel, Netlify, Firebase, VS Code, Net beans, Eclipse, Node mailer, Email.JS.
 
 
 ### Projects
 <hr/>
-GOOGLE SPACE|| React-TypeScript Firebase Authentication google drive-based Website
-•	React TypeScript App with Firebase Authentication (email-password, GitHub, google)
-•	Google drive-based website where can upload any project with live site and GitHub
-•	Sign in and sign up and Private (Protect) Router used. 
-•	Before add projects, must be sign in / sign up (account create) first.
-•	Technologies: 
+<h5>GOOGLE SPACE|| React-TypeScript Firebase Authentication google drive-based Website</h5>
+<li>React TypeScript App with Firebase Authentication (email-password, GitHub, google)</li>
+<li>Google drive-based website where can upload any project with live site and GitHub</li>
+<li>Sign in and sign up and Private (Protect) Router used. </li>
+<li>Before add projects, must be sign in / sign up (account create) first.</li>
+<li>Technologies:</li>		
 #React.js, #Node JS, #Express JS, #TypeScript, #Private Route, #GitHub, #MongoDB, #Firebase, , #Middlewares, #TailwindCSS, #DaisyUI, #GitHub,#Vercel
 
  
 <hr/>
-# FOOD RECIPES || Full Stack food Service Website
-•	Full Stack project food recipes-based web site where people can see favorite food and technology.
-•	Firebase Authentication (email-password, GitHub, google) Sign in, sign up system available 
-•	JWT Authorization, order any recipes, must be sign in /sign up (account create) first.
-•	Sign in and sign up and Private (Protect) Router used. 
-•	Technologies: 
+<h5> FOOD RECIPES || Full Stack food Service Website</h5>
+<li>Full Stack project food recipes-based web site where people can see favorite food and technology.</li>
+<li>Firebase Authentication (email-password, GitHub, google) Sign in, sign up system available </li>
+<li>JWT Authorization, order any recipes, must be sign in /sign up (account create) first.</li>
+<li>Sign in and sign up and Private (Protect) Router used. <li>
+<li>Technologies: </li>
 #React.js, #Node JS, #Express JS, #Private Route, #GitHub, #MongoDB, #Firebase, #Middlewares, #TailwindCSS, #DaisyUI, #GitHub, #Vercel, #Stripe Payment 
-
 <hr/>
 
-# LAWYER GHHOR || MERN Stack Service Review Based Website
+<h5> LAWYER GHHOR || MERN Stack Service Review Based Website</h5>
 •	MERN Stack project Service based web site where people can see lawyer Service.
 •	Firebase Authentication (email-password, GitHub, google) Sign in, sign up system available 
 •	JWT Authorization, add any services, must be sign in /sign up (account create) first.
