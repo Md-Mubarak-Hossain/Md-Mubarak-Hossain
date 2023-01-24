@@ -12,12 +12,12 @@
 
 # Experience
 <hr/>
-### Full Stack Developer                                                                                                          # January-2023 -Present
-# AAK TELE SCIENCE Inc, Full Time 
-# Davis, California, United States · Remote
+<h1>Full Stack Developer </h1>                                                                                                        
+<p> AAK TELE SCIENCE Inc, Full Time  # January-2023 -Present</p>
+<h5>Davis, California, United States · Remote</h5>
 <p> AAK introduces a revolutionary global collaborative environment dedicated to the scientific research community. Our cloud-based, interactive platform connects scientists with their peers worldwide, providing a smart and user-friendly adaptive experience enhanced by machine learning. Our platform encourages research collaboration while maintaining secure control over data for its us </p>
 
-### Skills: React JS, Bootstrap, Node JS, Express JS , MongoDB, GitHub , Atoms, Project manage, Software development
+<h4> Skills: React JS, Bootstrap, Node JS, Express JS , MongoDB, GitHub , Atoms, Project manage, Software development</h4>
 <hr/>
 ### Software Developer                                                                                                      # November-2022 -January-2023
 ### GAO Tek Inc, Full Time , US  (Remote)
