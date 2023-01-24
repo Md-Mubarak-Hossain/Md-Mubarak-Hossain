@@ -8,7 +8,7 @@
 
 # Career Objective
 <hr/>
-<p>I am a Full Stack Developer who is passionate, innovative and motivated to make a difference. The years of experience seeking a position as a Full Stack Developer with next generation Development Technologies, where I can apply my knowledge of Full Stack Development with leadership abilities to meet client needs exceed their expectations.<p>
+<p>I am a Full Stack Developer who is passionate, innovative and motivated to make a difference. The years of experience seeking a position as a Full Stack Developer with next generation Development Technologies, where I can apply my knowledge of Full Stack Development with leadership abilities to meet client needs exceed their expectations.</p>
 
 # Experience
 <hr/>
@@ -17,23 +17,23 @@
 # Davis, California, United States · Remote
 <p> AAK introduces a revolutionary global collaborative environment dedicated to the scientific research community. Our cloud-based, interactive platform connects scientists with their peers worldwide, providing a smart and user-friendly adaptive experience enhanced by machine learning. Our platform encourages research collaboration while maintaining secure control over data for its us </p>
 
-# Skills: React JS, Bootstrap, Node JS, Express JS , MongoDB, GitHub , Atoms, Project manage, Software development
+### Skills: React JS, Bootstrap, Node JS, Express JS , MongoDB, GitHub , Atoms, Project manage, Software development
 <hr/>
 ### Software Developer                                                                                                      # November-2022 -January-2023
-# GAO Tek Inc, Full Time , US  (Remote)
+### GAO Tek Inc, Full Time , US  (Remote)
 <p>I am a motivated full stack developer team member at GAO TEK Inc. This company stands me in a leadership position with excellent collaboration. I also learn how to manage team members and work together with them.</p>
 
-# Skills: React JS, Node JS, HTML5, CSS3, Team lead,  Project management,  Software development,  Project management methodology
+### Skills: React JS, Node JS, HTML5, CSS3, Team lead,  Project management,  Software development,  Project management methodology
 
 # Desired Skills
 <hr/>
-# Expertise:
+### Expertise:
 ReactJS, Next.JS, NodeJS, Express.JS, ES6, ES7, JavaScript, TypeScript, MongoDB, HTML5, CSS3, Tailwind, Daisy UI, Material UI, Bootstrap5.2, React-Bootstrap, 
-# Comfortable: 
+### Comfortable: 
 AngularJS, REST APIs, MySQL, Python, Java, XML, JSP, Scripting, Responsive web, JSON
-# Familiar:  
+### Familiar:  
 Redux, Vue.JS, WordPress
-# Technical Skill: 
+### Technical Skill: 
 Git, GitHub, Docker, Vercel, Netlify, Firebase, VS Code, Net beans, Eclipse, Node mailer, Email.JS.
 
 
@@ -46,9 +46,7 @@ GOOGLE SPACE|| React-TypeScript Firebase Authentication google drive-based Websi
 •	Before add projects, must be sign in / sign up (account create) first.
 •	Technologies: 
 #React.js, #Node JS, #Express JS, #TypeScript, #Private Route, #GitHub, #MongoDB, #Firebase, , #Middlewares, #TailwindCSS, #DaisyUI, #GitHub,#Vercel
- # Live Preview
- # Client Repository
- # Server Repository
+
  
 <hr/>
 # FOOD RECIPES || Full Stack food Service Website
@@ -58,9 +56,7 @@ GOOGLE SPACE|| React-TypeScript Firebase Authentication google drive-based Websi
 •	Sign in and sign up and Private (Protect) Router used. 
 •	Technologies: 
 #React.js, #Node JS, #Express JS, #Private Route, #GitHub, #MongoDB, #Firebase, #Middlewares, #TailwindCSS, #DaisyUI, #GitHub, #Vercel, #Stripe Payment 
- # Live Preview
- # Client Repository
- # Server Repository
+
 <hr/>
 
 # LAWYER GHHOR || MERN Stack Service Review Based Website
@@ -70,9 +66,7 @@ GOOGLE SPACE|| React-TypeScript Firebase Authentication google drive-based Websi
 •	Sign in and sign up and Private (Protect) Router used. 
 •	Technologies: 
 #React.js, #Node JS, #Express JS, #Private Route, #GitHub, #MongoDB, #Firebase, #Middlewares, #TailwindCSS, #DaisyUI, #GitHub, #Vercel, #Stripe Payment 
- # Live Preview
- # Client Repository
- # Server Repository
+
 
 
 # Education
