@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img style="width: 100%; height: auto;" src="https://github.com/Md-Mubarak-Hossain/Md-Mubarak-Hossain/blob/main/LINKEDbANNER3.png"/>
+  <img style="width: 100%; height: auto;" src="https://github.com/Md-Mubarak-Hossain/Md-Mubarak-Hossain/blob/main/developer1.jpg"/>
 </div>
 
 <hr>
