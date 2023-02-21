@@ -2,7 +2,7 @@
 
 
 
-### Hi there, I'm MD MUBARAk - [Portfolio][website] 👋
+### Hi there, I'm MD MUBARAk 👋
 
 <hr />
 
@@ -14,7 +14,7 @@
 
 - 👨‍🎓 **Always Student** with a bachelor's degree in Computer Science. </br>
 - 💻 **Experienced Developer** with **5** Years in React js having Redux , Saga , Material Ui & Node </br>
-- 👨🏼‍💻 **Technologies Worked On:** React js | Redux | Node js | Blockchain | Hyperledger | React-Native | Dockers | MongoDB | SQL | PHP </br>
+- 👨🏼‍💻 **Technologies Worked On:** React js | Redux | Node js | Blockchain | Hyperledger | React-Native | Dockers | MongoDB | SQL </br>
 - 👨🏼‍💻 **Exploring Startups** and seeking opertunities to work with them</br>
 - 💬 Feel more than welcome to contact me if you need any help </br>
 
@@ -32,7 +32,7 @@
 
 <p align="center">
     <a href="">
-        <img src="https://activity-graph.herokuapp.com/graph?username=Md-Mubarak-Hossain&layout=compact&langs_count=7&theme=gradient" width="96%" alt="Md-Mubarak-Hossain activity graph">
+        <img src="https://activity-graph.herokuapp.com/graph?username=Md-Mubarak-Hossain&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="shoaibshebi activity graph">
     </a>
 </p>
 
