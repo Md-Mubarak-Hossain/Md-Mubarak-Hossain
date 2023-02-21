@@ -1,13 +1,4 @@
 
-
-{
-  "data": {
-    "repository": {
-      "createdAt": "2016-02-15T16:45:02Z"
-    }
-  }
-}
-
 ### Hi there, I'm MD MUBARAk 👋
 <br />
 ### About Me 🚀
