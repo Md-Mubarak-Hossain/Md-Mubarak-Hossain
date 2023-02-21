@@ -56,7 +56,7 @@
 
 ## Tech stack I've worked with:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibshebi&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="shoaibshebi" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mubarak-Hossain&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="Md-Mubarak-Hossain" align="right">
 
 <h3 align="left">Blockchains</h3>
 <p align="left">
@@ -117,19 +117,6 @@
 </p>
 
 <br/>
-
-# Education
-<hr/>
-<h5>B.Sc. in Computer Science and Engineering     </h5>                                    
- <p>2019– 2022 | Uttara, Dhaka, Bangladesh</p>
-<h4>Shanto Mariam University Of Creative Technology</h4>
-Dhaka, Bangladesh.
-
-
-# Language
-<hr/>
-<h4> English (Communication)</h4>
-•	Fluent listening, #Reading, #Writing and #Speaking
 
 <hr>
 <img src="/assets/down.jpg" style="display:block;margin-top:20px;width:100px;height:30px" alt="dnld" border="0">
