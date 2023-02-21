@@ -4,7 +4,7 @@
 
 ### Hi there, I'm MD MUBARAk 👋
 
-<hr />
+<br />
 
 ### About Me 🚀
 
@@ -38,7 +38,7 @@
 <br />
 
 # Area Of Interest
- <hr/>
+ <br/>
  <table>
   <tbody>
     <tr><td><li>Full Stack Web Development</li></td><td><li>MERN Stack Web Development </li></td></tr>
@@ -48,7 +48,7 @@
   </table>
 
 ## Tech stack I've worked with:
-
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mubarak-Hossain&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="Md-Mubarak-Hossain" align="right">
 
 <h3 align="left">Blockchains</h3>
@@ -111,7 +111,6 @@
 
 <br/>
 
-<hr>
 <img src="/assets/down.jpg" style="display:block;margin-top:20px;width:100px;height:30px" alt="dnld" border="0">
 <p style='display:flex; background:gray;'>
 <a href="https://drive.google.com/file/d/1AK8gwBK2FlwqtSXYiWec0_1TzwnEHKRO/view?usp=sharing" style="text-decoration: none"  target="_blank">
@@ -122,9 +121,9 @@
  <img src="/assets/cv.jpg"  style="display:block;margin-top:20px;width:90px;height:auto;display:block" alt="dnld" border="0">
  </p>
   </a>
-
-<hr>
+  
 <br>
+
 <div id="badges" align="center">
    
   <a href="https://www.linkedin.com/in/md-mubarak-hossain-662113201/" style="text-decoration: none"  target="_blank">
@@ -143,5 +142,4 @@
    <a href="https://www.instagram.com/mubarak8100" style="text-decoration: none"  target="_blank">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
    </a>
-   <br>
 </div>
