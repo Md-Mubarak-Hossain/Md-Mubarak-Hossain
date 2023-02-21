@@ -5,7 +5,12 @@
 ### Hi there, I'm MD MUBARAk 👋
 <br />
 ### About Me 🚀
+<br/>
+
+
 ## I'm a FullStack & Blockchain Developer, Tech Enthusiast, & Reader!!
+
+
 <br/>
 - 👨‍🎓 **Always Student** with a bachelor's degree in Computer Science. </br>
 - 💻 **Experienced Developer** with **5** Years in React js having Redux , Saga , Material Ui & Node </br>
@@ -15,8 +20,6 @@
 
 <br/>
 
----
-<br>
 
 <div align="center">
   <a href="https://github.com/Md-Mubarak-Hossain">
