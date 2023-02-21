@@ -32,12 +32,12 @@
 
 <p align="center">
     <a href="">
-        <img src="https://activity-graph.herokuapp.com/graph?username=Md-Mubarak-Hossain&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="Md-Mubarak-Hossain activity graph">
+        <img src="https://activity-graph.herokuapp.com/graph?username=Md-Mubarak-Hossain&layout=compact&langs_count=7&theme=gradient" width="96%" alt="Md-Mubarak-Hossain activity graph">
     </a>
 </p>
 
 <div align="center">
-  <a href="https://github.com/shoaibshebi">
+  <a href="https://github.com/Md-Mubarak-Hossain">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Md-Mubarak-Hossain&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mubarak-Hossain&layout=compact&langs_count=7&theme=gradient"/>
 </div>
@@ -124,26 +124,12 @@
  <p>2019– 2022 | Uttara, Dhaka, Bangladesh</p>
 <h4>Shanto Mariam University Of Creative Technology</h4>
 Dhaka, Bangladesh.
-<h5>Higher Secondary School Certificate– Science </h5>                                       
- <p>2011– 2013 | West-Brahmondhi</p>
-GPA-5.00 (In scale of 5.00)
-<h4>NARSINGDI MODEL COLLEGE</h4>
-Narsingdi, Dhaka, Bangladesh
+
 
 # Language
 <hr/>
 <h4> English (Communication)</h4>
 •	Fluent listening, #Reading, #Writing and #Speaking
-<h4> Bengali</h4>
-•	Excellent listening, reading, writing and speaking
-
-
-# Certification
-<hr/>
-<li>Programming Hero ,Dhaka,Bangladesh</li>
-<li>Microverse , California, USA</li>
-
-
 
 <hr>
 <img src="/assets/down.jpg" style="display:block;margin-top:20px;width:100px;height:30px" alt="dnld" border="0">
@@ -158,23 +144,6 @@ Narsingdi, Dhaka, Bangladesh
   </a>
 
 <hr> 
-
-
-### 🔥 My-Stats :
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Mubarak-Hossain&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats) 
-
-<br> <br>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Md-Mubarak-Hossain&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<hr>
-
-### 🥇 Top Languages :
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mubarak-Hossain&layout=compact&theme=cobalt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <hr>
 <br>
