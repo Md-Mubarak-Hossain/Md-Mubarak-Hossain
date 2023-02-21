@@ -8,12 +8,12 @@
 
 ### About Me 🚀
 
-## 'm a FullStack & Blockchain Developer, Tech Enthusiast, & Reader!!
+## I'm a FullStack & Blockchain Developer, Tech Enthusiast, & Reader!!
 
 <br/>
 
 - 👨‍🎓 **Always Student** with a bachelor's degree in Computer Science. </br>
-- 💻 **Experienced Developer** with **4** Years in React js having Redux , Saga , Material Ui & Node </br>
+- 💻 **Experienced Developer** with **5** Years in React js having Redux , Saga , Material Ui & Node </br>
 - 👨🏼‍💻 **Technologies Worked On:** React js | Redux | Node js | Blockchain | Hyperledger | React-Native | Dockers | MongoDB | SQL | PHP </br>
 - 👨🏼‍💻 **Exploring Startups** and seeking opertunities to work with them</br>
 - 💬 Feel more than welcome to contact me if you need any help </br>
@@ -26,49 +26,33 @@
 <br>
 
 
-
-### Connect with me:
-
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Shoaib | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Shoaib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shoaib | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-
-👈 <br />
-<hr /> 
-
 <p align="center">
-<a href="https://github.com/shoaibshebi?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=shoaibshebi&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="shoaibshebi github-readme-streak-stats"/></a>
+<a href="https://github.com/Md-Mubarak-Hossain?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Md-Mubarak-Hossain&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="Md-Mubarak-Hossain github-readme-streak-stats"/></a>
 </p>
 
 <p align="center">
     <a href="">
-        <img src="https://activity-graph.herokuapp.com/graph?username=shoaibshebi&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="shoaibshebi activity graph">
+        <img src="https://activity-graph.herokuapp.com/graph?username=Md-Mubarak-Hossain&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="Md-Mubarak-Hossain activity graph">
     </a>
 </p>
 
 <div align="center">
   <a href="https://github.com/shoaibshebi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shoaibshebi&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibshebi&layout=compact&langs_count=7&theme=gradient"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Md-Mubarak-Hossain&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mubarak-Hossain&layout=compact&langs_count=7&theme=gradient"/>
 </div>
 
 <br />
 
-# Experience
-<hr/>
-<h1>Full Stack Developer </h1>                                                                                                        
-<h5> AAK TELE SCIENCE Inc, Full Time  # January-2023 -Present</h5>
-<h5>Davis, California, United States · Remote</h5>
-<p> AAK introduces a revolutionary global collaborative environment dedicated to the scientific research community. Our cloud-based, interactive platform connects scientists with their peers worldwide, providing a smart and user-friendly adaptive experience enhanced by machine learning. Our platform encourages research collaboration while maintaining secure control over data for its us </p>
-
-<h4> Skills: React JS, Bootstrap, Node JS, Express JS , MongoDB, GitHub , Atoms, Project manage, Software development</h4>
-<hr/>
-<h1> Software Developer  </h1>                                                                                                    
-<h5> GAO Tek Inc, Full Time , US-  November-2022 -January-2023(Remote)</h5>
-<p>I am a motivated full stack developer team member at GAO TEK Inc. This company stands me in a leadership position with excellent collaboration. I also learn how to manage team members and work together with them.</p>
-
-<h4> Skills: React JS, Node JS, HTML5, CSS3, Team lead,  Project management,  Software development,  Project management methodology</h4>
+# Area Of Interest
+ <hr/>
+ <table>
+  <tbody>
+    <tr><td><li>Full Stack Web Development</li></td><td><li>MERN Stack Web Development </li></td></tr>
+   <tr><td><li>React JS Development</li></td><td><li>JavaScript Development</li></td></tr>
+    <tr><td><li>Front End Development</li></td><td><li>Backend Development</li></td></tr>
+  </tbody>
+  </table>
 
 ## Tech stack I've worked with:
 
@@ -134,38 +118,6 @@
 
 <br/>
 
-
-### Projects
-<hr/>
-<h5>GOOGLE SPACE|| React-TypeScript Firebase Authentication google drive-based Website</h5>
-<li>React TypeScript App with Firebase Authentication (email-password, GitHub, google)</li>
-<li>Google drive-based website where can upload any project with live site and GitHub</li>
-<li>Sign in and sign up and Private (Protect) Router used. </li>
-<li>Before add projects, must be sign in / sign up (account create) first.</li>
-<li>Technologies:</li>		
-#React.js, #Node JS, #Express JS, #TypeScript, #Private Route, #GitHub, #MongoDB, #Firebase, , #Middlewares, #TailwindCSS, #DaisyUI, #GitHub,#Vercel
-
- 
-<hr/>
-<h5> FOOD RECIPES || Full Stack food Service Website</h5>
-<li>Full Stack project food recipes-based web site where people can see favorite food and technology.</li>
-<li>Firebase Authentication (email-password, GitHub, google) Sign in, sign up system available </li>
-<li>JWT Authorization, order any recipes, must be sign in /sign up (account create) first.</li>
-<li>Sign in and sign up and Private (Protect) Router used. </li>
-<li>Technologies: </li>
-#React.js, #Node JS, #Express JS, #Private Route, #GitHub, #MongoDB, #Firebase, #Middlewares, #TailwindCSS, #DaisyUI, #GitHub, #Vercel, #Stripe Payment 
-<hr/>
-
-<h5> LAWYER GHHOR || MERN Stack Service Review Based Website</h5>
-<li>MERN Stack project Service based web site where people can see lawyer Service.</li>
-<li>Firebase Authentication (email-password, GitHub, google) Sign in, sign up system available </li>
-<li>JWT Authorization, add any services, must be sign in /sign up (account create) first.</li>
-<li>Sign in and sign up and Private (Protect) Router used. </li>
-<li>Technologies: </li>
-#React.js, #Node JS, #Express JS, #Private Route, #GitHub, #MongoDB, #Firebase, #Middlewares, #TailwindCSS, #DaisyUI, #GitHub, #Vercel, #Stripe Payment 
-
-
-
 # Education
 <hr/>
 <h5>B.Sc. in Computer Science and Engineering     </h5>                                    
@@ -185,15 +137,6 @@ Narsingdi, Dhaka, Bangladesh
 <h4> Bengali</h4>
 •	Excellent listening, reading, writing and speaking
 
-# Area Of Interest
- <hr/>
- <table>
-  <tbody>
-    <tr><td><li>Full Stack Web Development</li></td><td><li>MERN Stack Web Development </li></td></tr>
-   <tr><td><li>React JS Development</li></td><td><li>JavaScript Development</li></td></tr>
-    <tr><td><li>Front End Development</li></td><td><li>Backend Development</li></td></tr>
-  </tbody>
-  </table>
 
 # Certification
 <hr/>
