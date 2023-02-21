@@ -3,15 +3,10 @@
 
 
 ### Hi there, I'm MD MUBARAk 👋
-
 <br />
-
 ### About Me 🚀
-
 ## I'm a FullStack & Blockchain Developer, Tech Enthusiast, & Reader!!
-
 <br/>
-
 - 👨‍🎓 **Always Student** with a bachelor's degree in Computer Science. </br>
 - 💻 **Experienced Developer** with **5** Years in React js having Redux , Saga , Material Ui & Node </br>
 - 👨🏼‍💻 **Technologies Worked On:** React js | Redux | Node js | Blockchain | Hyperledger | React-Native | Dockers | MongoDB | SQL </br>
@@ -20,15 +15,8 @@
 
 <br/>
 
-
 ---
-
 <br>
-
-
-
-
-
 
 <div align="center">
   <a href="https://github.com/Md-Mubarak-Hossain">
@@ -108,7 +96,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> AWS </a>
 </p>
-
 <br/>
 
 <img src="/assets/down.jpg" style="display:block;margin-top:20px;width:100px;height:30px" alt="dnld" border="0">
