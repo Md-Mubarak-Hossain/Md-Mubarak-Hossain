@@ -26,20 +26,13 @@
 <br>
 
 
-<p align="center">
-<a href="https://github.com/Md-Mubarak-Hossain?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Md-Mubarak-Hossain&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="Md-Mubarak-Hossain github-readme-streak-stats"/></a>
-</p>
 
-<p align="center">
-    <a href="">
-        <img src="https://activity-graph.herokuapp.com/graph?username=Md-Mubarak-Hossain&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="shoaibshebi activity graph">
-    </a>
-</p>
+
+
 
 <div align="center">
   <a href="https://github.com/Md-Mubarak-Hossain">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Md-Mubarak-Hossain&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mubarak-Hossain&layout=compact&langs_count=7&theme=gradient"/>
 </div>
 
 <br />
@@ -129,8 +122,6 @@
  <img src="/assets/cv.jpg"  style="display:block;margin-top:20px;width:90px;height:auto;display:block" alt="dnld" border="0">
  </p>
   </a>
-
-<hr> 
 
 <hr>
 <br>
