@@ -1,5 +1,5 @@
 
-### Hi there, I'm MD MUBARAk 👋
+### Hi there, I'm MD MUBARAK HOSSAIN 👋
 <br />
 ### About Me 🚀
 <br/>
@@ -10,7 +10,7 @@
 
 <br/>
 - 👨‍🎓 **Always Student** with a bachelor's degree in Computer Science. </br>
-- 💻 **Experienced Developer** with **5** Years in React js having Redux , Saga , Material Ui & Node </br>
+- 💻 **Experienced Developer** with **5** Years in React js having Redux, Saga, Material Ui & Node </br>
 - 👨🏼‍💻 **Technologies Worked On:** React js | Redux | Node js | Blockchain | Hyperledger | React-Native | Dockers | MongoDB | SQL </br>
 - 👨🏼‍💻 **Exploring Startups** and seeking opertunities to work with them</br>
 - 💬 Feel more than welcome to contact me if you need any help </br>
@@ -31,13 +31,13 @@
   <tbody>
     <tr><td><li>Full Stack Web Development</li></td><td><li>MERN Stack Web Development </li></td></tr>
    <tr><td><li>React JS Development</li></td><td><li>JavaScript Development</li></td></tr>
-    <tr><td><li>Front End Development</li></td><td><li>Backend Development</li></td></tr>
+    <tr><td><li>Front End Development</li></td><td><li>Backend Django & Express Development</li></td></tr>
   </tbody>
   </table>
 
 ## Tech stack I've worked with:
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mubarak-Hossain&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="Md-Mubarak-Hossain" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mubarak-Hossain&theme=gotham&hide_border=true&layout=compact&langs_count=10" alt="Md-Mubarak-Hossain" align="right">
 
 <h3 align="left">Blockchains</h3>
 <p align="left">
@@ -92,9 +92,9 @@
 
 <h3 align="left">Others</h3>
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> AWS </a>
+  <a href="https://git-scm.com/" target="_blank" rel="no-referrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
+  <a href="https://postman.com" target="_blank" rel="no-referrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a>
+  <a href="https://heroku.com" target="_blank" rel="no-referrer"> AWS </a>
 </p>
 <br/>
 
