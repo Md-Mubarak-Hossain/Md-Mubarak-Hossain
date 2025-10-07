@@ -10,8 +10,8 @@
 
 <br/>
 - 👨‍🎓 **Always Student** with a bachelor's degree in Computer Science. </br>
-- 💻 **Experienced Developer** with **5** Years in React js having Redux, Saga, Material Ui & Node </br>
-- 👨🏼‍💻 **Technologies Worked On:** React js | Redux | Node js | Blockchain | Hyperledger | React-Native | Dockers | MongoDB | SQL </br>
+- 💻 **Experienced Developer** with **5** Years in React js  Boostrap, TailwindCSS  & Node </br>
+- 👨🏼‍💻 **Technologies Worked On:** React js | ExpressJS | Node js | MongoDB </br>
 - 👨🏼‍💻 **Exploring Startups** and seeking opertunities to work with them</br>
 - 💬 Feel more than welcome to contact me if you need any help </br>
 
@@ -30,8 +30,7 @@
  <table>
   <tbody>
     <tr><td><li>Full Stack Web Development</li></td><td><li>MERN Stack Web Development </li></td></tr>
-   <tr><td><li>React JS Development</li></td><td><li>JavaScript Development</li></td></tr>
-    <tr><td><li>Front End Development</li></td><td><li>Backend Django & Express Development</li></td></tr>
+   <tr><td><li>React JS Development</li></td><td><li>Front End Development</li></td></tr>
   </tbody>
   </table>
 
@@ -39,21 +38,11 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mubarak-Hossain&theme=gotham&hide_border=true&layout=compact&langs_count=10" alt="Md-Mubarak-Hossain" align="right">
 
-<h3 align="left">Blockchains</h3>
-<p align="left">
-    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="solidity"/> </a> <a href="https://www.hyperledger.org/" target="_blank" rel="noreferrer"> Hyperledger Fabric </a>
-</p>
-
 <h3 align="left">Programming Lanugages I have work with:</h3>
 <p align="left">
   <a href="https://docs.soliditylang.org/en/latest/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="solidity"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/> </a>
-</p>
-
-<h3 align="left">Mobile App Development</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/> </a>
 </p>
 
 <h3 align="left">Frontend Technologies</h3>
@@ -85,11 +74,6 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/> </a>
 </p>
 
-<h3 align="left">Off-Chain</h3>
-<p align="left">
-  <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="mongoDB"/> </a>
-</p>
-
 <h3 align="left">Others</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="no-referrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
@@ -113,20 +97,14 @@
 
 <div id="badges" align="center">
    
-  <a href="https://www.linkedin.com/in/md-mubarak-hossain-662113201/" style="text-decoration: none"  target="_blank">
+  <a href="https://www.linkedin.com/in/mubarak-hossain/" style="text-decoration: none"  target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCySCEvl9nmFyAIXgUQfD5KQ" style="text-decoration: none"  target="_blank">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/Mubarak6632" style="text-decoration: none"  target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  
   <a href="https://www.facebook.com/mubarak.parvej/" style="text-decoration: none"  target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-   </a>
- 
-   <a href="https://www.instagram.com/mubarak8100" style="text-decoration: none"  target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
    </a>
 </div>
